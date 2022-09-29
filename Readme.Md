@@ -1,5 +1,4 @@
-# RRT*main project 5
-Baseline package for project 5
+# RRT* in Dynamic Environment
 
 Start the program by running the following file " RRT*main.py "
 
