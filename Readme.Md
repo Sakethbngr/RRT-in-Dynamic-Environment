@@ -10,3 +10,9 @@ Dependancies used :
 	time
 	imageio
 	io
+
+
+|Team Members
+|--
+|Saketh Narayan Banagiri
+|Balaji Selvakumar
